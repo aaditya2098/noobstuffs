@@ -1,3 +1,3 @@
 # noobstuffs
 
-Trying  to gather true gems for infose
+Trying  to gather bypasses for security
